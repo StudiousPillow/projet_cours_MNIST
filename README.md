@@ -1,10 +1,10 @@
 
-## Contexte
+## Context
 This project aims to read numbers from images using the MNIST dataset (MNIST.ipynb), and classify the subcellular localizations from protein sequences using the Multiloc dataset. 
 
 ## Installation
-### Clone the git repository:
- ```bash
+### Clone the git repository
+```bash
 git clone git@github.com:StudiousPillow/projet_cours_MNIST.git
 ```
 ### Install the environment
@@ -18,9 +18,9 @@ Then activate it:
 conda activate projet_cours_MNIST
 ```
 
-### With pixi
+#### With pixi
 You can also use [pixi](https://pixi.sh/).
-First, install pixi (for linux and macOS, for windows see(https://pixi.sh/latest/#installation)):
+First, install pixi (for linux and macOS, for windows see https://pixi.sh/latest/#installation):
 ```bash
 curl -fsSL https://pixi.sh/install.sh | bash
 ```
