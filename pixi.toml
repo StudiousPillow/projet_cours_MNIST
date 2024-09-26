@@ -1,7 +1,7 @@
 [project]
 channels = ["conda-forge"]
-description = "Add a short description here"
-name = "MNIST"
+description = "Dense, CNN and RNN"
+name = "projet_cours_MNIST"
 platforms = ["linux-64"]
 version = "0.1.0"
 
@@ -21,3 +21,4 @@ jupyter = ">=1.1.1, <2"
 pydot = ">=3.0.1, <4"
 scikit-learn = ">=1.5.2, <2"
 seaborn = ">=0.13.2, <0.14"
+tqdm = ">=4.66.5, <5"
